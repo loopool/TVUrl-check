@@ -1,4 +1,4 @@
-## TVBox批量站点检测，去除无效站点
+## TVBox可用站点检测，去除无效站点
 python main.py
 
 ### 配置
