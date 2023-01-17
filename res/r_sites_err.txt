@@ -1,0 +1,74 @@
+{"key":"csp_3EDY","name":"🔥3E飘花(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/liucn/box/raw/branch/main/sub/ext/EEEDY.jpg;md5;381A02B64A5BD9853369369C335B8018"},
+{"key":"zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+
+[2023-01-16 17:20:04] 0:{"key":"T4_douban1","name":"🔍影视推荐1(T4)","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":1,"quickSearch":1,"filterable":1},
+
+[2023-01-16 17:20:27] 0:{"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
+
+[2023-01-16 17:20:43] 0:{"key":"csp_xml_ck","name":"🎀CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","记录片","犯罪片","奇幻片","电视剧","国产剧","欧美剧","日韩剧","港台剧"]},
+
+[2023-01-16 17:20:45] 404:{"key":"csp_app_美剧范","name":"🐌美剧范(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
+
+[2023-01-16 17:21:08] 404:{"key":"csp_app_9E03","name": "🐌9E03(v2)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"},
+
+[2023-01-16 17:21:08] 0:{"key":"csp_app_gotka","name":"🐌速播影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
+
+[2023-01-16 17:21:09] 0:{"key":"csp_app_独优影视","name":"🐌独优影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
+
+[2023-01-16 17:21:18] 404:{"key":"csp_app_群鑫影视","name":"🐌群鑫影视","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.qunxinys.com/api.php/v1.vod"},
+
+[2023-01-16 17:21:19] 404:{"key":"csp_app_段友影视","name": "🐌段友影视2","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://shangjihuoke.com/api.php/tv.vod"},
+
+[2023-01-16 17:21:19] 0:{"key":"csp_xml_八戒官采","name":"🐝八戒官采","type":1,"api":"https://www.bajiezy.xyz/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","纪录","动作片","喜剧片","爱情片","科幻片","剧情片","悬疑片","惊悚片","恐怖片","犯罪片","谍战片","冒险片","奇幻片","灾难片","战争片","动画片","歌舞片","历史片","传记片","其他片","国产剧","港台剧","日韩剧","欧美剧","海外剧","其他剧"]},
+
+[2023-01-16 17:21:19] 0:{"key":"csp_xml_土狗360","name":"🐝土狗360","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","其他剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","纪录片","其他片"]},
+
+[2023-01-16 17:21:21] 404:{"key":"csp_xml_金鹰资源","name":"🐝金鹰资源","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
+
+[2023-01-16 17:21:24] 404:{"key":"csp_xml_200121","name":"🐝200121","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+
+[2023-01-16 17:21:45] 0:{"key":"csp_xml_mac采集","name":"🐝苹果采集","type":1,"api":"http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
+
+[2023-01-16 17:21:45] 404:{"key":"csp_xml_木子看剧","name":"🐝木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
+[2023-01-16 17:22:09] 404:{"key":"csp_app_天空TV","name":"🐌天空TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.tkys.tv/api.php/iptv/vod/"},
+
+[2023-01-16 17:22:09] 0:{"key":"csp_app_1080KK","name":"🐌1080KK","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.250idc.com/mogai_api.php/v1.vod"},
+
+[2023-01-16 17:22:10] 0:{"key":"csp_app_米来影视","name":"🐌米来影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://42.51.37.161:2346/api.php/iptv/vod/"},
+
+[2023-01-16 17:22:11] 0:{"key":"csp_app_零刻影院","name": "🐌零刻影院","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ys.ling00.cn/api.php/v1.vod"},
+
+[2023-01-16 17:22:32] 0:{"key":"csp_app_瑞丰影视","name": "🐌瑞丰影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
+
+[2023-01-16 17:22:54] 0:{"key":"csp_app_熊猫动漫","name":"🐌熊猫动漫","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dongman.k8aa.com/mogai_api.php/v1.vod"},
+
+[2023-01-16 17:22:55] 0:{"key":"csp_app_日诚影视","name":"🐌日诚影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.rcz168.com/api.php/v1.vod"},
+
+[2023-01-16 17:22:57] 0:{"key":"csp_app_冷视TV","name":"🐌冷视TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://len.tv/api.php/v1.vod"},
+
+[2023-01-16 17:22:58] 0:{"key":"csp_app_芒迅TV","name":"🐌芒迅TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.hdyangtv.com/api.php/iptv/vod/"},
+
+[2023-01-16 17:22:59] 0:{"key":"csp_app_盒子视界","name":"🐌盒子视界","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://eh.tvzy.cc/api.php/iptv/vod/"},
+
+[2023-01-16 17:23:00] 0:{"key":"csp_app_贵宾影院","name":"🐌贵宾影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vipdytv.com/api.php/iptv/vod/"},
+
+[2023-01-16 17:23:00] 404:{"key":"csp_app_CV影视","name":"🐌CV影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
+
+[2023-01-16 17:23:00] 0:{"key":"csp_app_影视大全","name":"🐌影视大全","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xc.xixi2yy.xyz/mogai_api.php/v1.vod"},
+
+[2023-01-16 17:23:05] 0:{"key":"csp_app_U5影视","name":"🐌U5影视","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://appx.uy07.com/api.php/v1.vod"},
+
+[2023-01-16 17:23:05] 0:{"key":"csp_xml_番茄资源","name":"🐝番茄资源","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","playUrl":"https://dp.fqplayer.com/dplayer/?url=","searchable":1,"quickSearch":1},
+
+[2023-01-16 17:23:08] 0:{"key":"csp_xml_多多资源","name":"🐝多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/at/xml","playUrl":"https://player.movie09.com/dplayer/?url=","searchable":1,"quickSearch":1},
+
+[2023-01-16 17:23:57] 0:{"key":"csp_xml_樱花资源","name":"🐝樱花资源","type":1,"api":"https://yhzy.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+
+[2023-01-16 17:24:07] 404:{"key":"csp_xml_松鼠资源","name":"🐝松鼠资源","type":1,"api":"https://m3u8.songshuzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+
+[2023-01-17 08:47:37] 0:{"key":"❤SB资源","name":"❤SB资源","type":1,"api":"http://www.shabizy.com:777/inc/sea","searchable":0,"quickSearch":0},
+
+[2023-01-17 08:48:24] 0:{"key":"❤天噜啦资源","name":"❤天噜啦资源","type":1,"api":"http://www.987caiji.com/api/max.php","searchable":0,"quickSearch":0},
+
+[2023-01-17 08:48:24] 0:{"key":"❤99资源","name":"❤99资源","type":1,"api":"http://99zy.pw/api.php/provide/vod/","searchable":0,"quickSearch":0},
