@@ -95,14 +95,14 @@ if(menu == 'check'):
         LocalFile.write_LocalFile('./res/r_sites_err.txt', r_sites_err.strip('\r\n'))
         print('Line-96:/res/r_sites_err.txt已更新。')
 
-        #r_pushagent = LocalFile.read_LocalFile("./res/r_pushagent.txt")
+        r_pushagent = LocalFile.read_LocalFile("./res/r_pushagent.txt")
         r_update = '{\r\n//Update:' + str(datetime.datetime.now()) + '\r\n\r\n'
         r_conf = LocalFile.read_LocalFile("./res/r_conf.txt")
         r_conf = '\r\n' + r_conf + '\r\n}'
 
-        LocalFile.write_LocalFile('./out/tvbox.txt', r_update + '"sites":[' + addtv + '\r\n],'
+        LocalFile.write_LocalFile('./out/tvbox.txt', r_update + '"sites":[' + addtv + '\r\n' + r_pushagent + '\r\n],'
             + r_conf)
 
-        LocalFile.write_LocalFile('./out/all', '"sites":[\r\n//Update:' + str(datetime.datetime.now()) + '\r\n' + addtv + '\r\n' + nsfw + '\r\n' + spare + '\r\n],')
+        LocalFile.write_LocalFile('./out/all', '"sites":[\r\n//Update:' + str(datetime.datetime.now()) + '\r\n' + addtv + '\r\n' + nsfw + '\r\n' + spare + '\r\n' + r_pushagent + '\r\n],')
     except Exception as ex:
         LocalFile.write_LogFile('Main-Line-108-Exception:' + str(ex))
