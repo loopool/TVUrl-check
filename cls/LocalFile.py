@@ -42,7 +42,7 @@ class LocalFile(): # 将订阅链接中YAML，Base64等内容转换为 Url 链�
             else:
                 fsize = len(fcont)
             # 内容格式转换
-            _file = open(fname, wtype, encoding='utf-8')
+            _file = open(fname, wtype, encoding='utf-8', newline='')
             _file.write(fcont.encode("utf-8").decode("utf-8"))
             _file.close()
             if(fcont.find('Exception') > -1):

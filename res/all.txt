@@ -1,0 +1,7 @@
+"sites":[
+{"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_douban2","name":"🔍影视推荐2(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xp_zxzj2","name":"💢在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/zxzj2.json"},
+{"key":"csp_xml_金鹰资源","name":"🐝金鹰资源","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
+{"key":"csp_xml_mac采集","name":"🐝苹果采集","type":0,"api":"http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":1},
+],
